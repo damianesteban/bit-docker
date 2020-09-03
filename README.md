@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/teambit/bit-docker)
+
 # Bit-docker
 
 A dockerfile setup to run your own [Bit](https://www.github.com/teambit/bit) server.  
